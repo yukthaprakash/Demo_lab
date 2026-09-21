@@ -1,5 +1,5 @@
 # Demo_lab
-Name - Yuktha 
+NAME - YUKTHA 
 
 USN - 1CR25CS216
 
